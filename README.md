@@ -7,3 +7,13 @@ laos-gis-mapper/           ← Your GitHub repo root
 ├── favicon.svg             ← Browser tab icon
 └── icons/
     └── icon.svg            ← Home screen icon
+
+📍 Mark Point
+🛤️ Track          ← NEW
+📏 Distance
+📐 Area
+📁 Import
+🗂️ Layers
+📌 Saved Points
+🗻 OpenTopoMap
+🙈 HUD
